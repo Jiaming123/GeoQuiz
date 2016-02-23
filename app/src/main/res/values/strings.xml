@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="next_button">Next</string>
+    <string name="true_button">是</string>
+    <string name="false_button">否</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="menu_Settings">Settings</string>
+
+    <string name="question_1">1 + 1 = 2</string>
+    <string name="question_2">2 + 2 = 3</string>
+    <string name="question_3">3 + 3 = 6</string>
+    <string name="question_4">4 + 4 = 7</string>
+    <string name="question_5">5 + 5 = 10</string>
+
+</resources>
